@@ -1,17 +1,20 @@
 ﻿{
   "Author": "UnknownX",
   "Name": "ReAction",
-  "Punchline": "QoL for the battle system.",
-  "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-  "IconUrl": "",
+  "Punchline": "Improves certain aspects of actions, such as targeting.",
+  "Description": "Improves certain aspects of actions, such as targeting. Similar to MOAction.",
+  "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
   "ImageUrls": [
     ""
   ],
-  "RepoUrl": "https://github.com/UnknownX7/ReAction",
+  "RepoUrl": "https://github.com/20210056/Testing",
   "CategoryTags": [
     "jobs"
   ],
   "InternalName": "ReAction",
-  "AssemblyVersion": "9.9.9.9",
+  "AssemblyVersion": "0.0.0.120",
+  "ApplicableVersion": "2023.10.23.0000.0000",
+  "DalamudApiLevel": 8,
+  "LoadPriority": 0,
   "Changelog": ""
 }
